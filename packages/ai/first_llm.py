@@ -22,4 +22,17 @@ response = client.responses.create(
     """)
 )
 
+print("=== ANSWER ===")
 print(response.output_text)
+
+print("\n=== RESPONSE INFO ===")
+print(f"Response ID: {response.id}")
+print(f"Model: {response.model}")
+print(f"Status: {response.status}")
+
+print("\n=== TOKEN USAGE ===")
+
+if response.usage:
+    print(f"Input tokens:  {response.usage.input_tokens}")
+    print(f"Input tokens:  {response.usage.output_tokens}")
+    print(f"Input tokens:  {response.usage.total_tokens}")
