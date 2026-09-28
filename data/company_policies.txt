@@ -1,0 +1,17 @@
+Enterprise Refund Policy
+Enterprise customers can request a refund within 45 days of purchase.
+
+Premium Refund Policy
+Premium customers can request a refund within 30 days of purchase.
+
+Standard Refund Policy
+Standard customers can request a refund within 15 days of purchase.
+
+Password Policy
+Employees must change their account password every 90 days.
+
+Annual Leave Policy
+Full-time employees receive 24 days of paid annual leave each year.
+
+Remote Work Policy
+Employees may work remotely for up to three days per week with manager approval.
