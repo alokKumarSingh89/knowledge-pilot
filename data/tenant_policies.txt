@@ -1,0 +1,21 @@
+organization_id=acme
+Acme Refund Policy
+Acme enterprise customers can request a refund within 30 days of purchase.
+
+---
+
+organization_id=globex
+Globex Refund Policy
+Globex enterprise customers can request a refund within 90 days of purchase.
+
+---
+
+organization_id=acme
+Acme Remote Work Policy
+Acme employees may work remotely up to two days per week.
+
+---
+
+organization_id=globex
+Globex Remote Work Policy
+Globex employees may work remotely up to four days per week.
