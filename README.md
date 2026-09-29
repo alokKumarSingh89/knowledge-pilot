@@ -27,3 +27,13 @@ AI, RAG, and agentic AI systems from first principles.
 ## Current Stage
 
 AI and LLM fundamentals.
+
+```bash
+    # Run qdrant
+    docker run -d \
+  --name knowledge-pilot-qdrant \
+  -p 6333:6333 \
+  -p 6334:6334 \
+  -v knowledge-pilot-qdrant-data:/qdrant/storage \
+  qdrant/qdrant
+```
