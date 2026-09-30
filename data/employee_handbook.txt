@@ -1,0 +1,27 @@
+Employee Handbook
+
+Welcome to Acme Corporation. This handbook explains the primary workplace policies that apply to full-time employees. Employees should contact the People Operations team when they need clarification about a policy.
+
+Annual Leave Policy
+
+Full-time employees receive 24 days of paid annual leave during each calendar year. Employees should submit planned leave requests through the company leave management system. Requests for more than five consecutive working days should normally be submitted at least two weeks in advance.
+
+Unused annual leave does not automatically carry forward into the next calendar year. Employees may carry forward up to five unused days when their manager approves the request before the end of December. Any additional unused leave expires unless local employment law requires otherwise.
+
+Remote Work Policy
+
+Employees may work remotely for up to three days during each working week with manager approval. Teams may establish specific office collaboration days when employees are expected to work from the office.
+
+Employees working remotely must use company-approved devices when accessing confidential company systems. Employees must follow the same information-security requirements that apply while working from a company office.
+
+Password and Account Security
+
+Employee account passwords must contain at least 12 characters. Employees must change their passwords every 90 days. Passwords must not be shared with colleagues or stored in publicly accessible locations.
+
+Employees who believe their account credentials have been compromised must immediately contact the security team and reset their password.
+
+Expense Reimbursement
+
+Employees may claim reasonable business expenses that are directly related to approved company activities. Expense claims should include appropriate receipts and should normally be submitted within 30 days of the expense.
+
+Expenses above 5000 INR require manager approval before reimbursement. Finance may request additional documentation when an expense cannot be verified from the submitted receipt.
